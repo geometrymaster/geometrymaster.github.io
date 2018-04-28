@@ -1,0 +1,39 @@
+{
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-51-28 13:4:8",
+  "loopSlideshow" : 0,
+  "filename" : "Theorem 6.4.3",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "Theorem 6.4.3",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0",
+  "slideList" : [
+    "7D643FA7-9A1F-45A5-A30F-7828735F3C35",
+    "DBDC5137-1414-49DA-A152-BCB0E15E6DD1",
+    "6F976E4B-5221-4110-90C9-F06F966A2DA1",
+    "D9884C62-7F84-4B0F-B713-A62AF4C28B69"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1024,
+  "slideHeight" : 768,
+  "slideCount" : 4,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "ArialUnicodeMS",
+    "Helvetica-Light",
+    "HelveticaNeue-Light",
+    "HelveticaNeue",
+    "HelveticaNeue-Italic",
+    "HelveticaNeue-Bold",
+    "Helvetica",
+    "HelveticaNeue-Thin",
+    "GillSans",
+    "HelveticaNeue-Medium"
+  ]
+}
