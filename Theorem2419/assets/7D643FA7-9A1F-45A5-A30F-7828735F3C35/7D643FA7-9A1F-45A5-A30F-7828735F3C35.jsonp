@@ -16,7 +16,7 @@ local_slide( {
         "width" : 12,
         "height" : 16
       },
-      "D803913FFA99B856E45B85987FBFB891" : {
+      "DA74CC4423F187553B9554252B51967C" : {
         "type" : "texture",
         "index" : 1,
         "assetRequest" : {
@@ -27,10 +27,10 @@ local_slide( {
         "url" : {
           "native" : "assets\/7D643FA7-9A1F-45A5-A30F-7828735F3C35.pdf"
         },
-        "width" : 526,
+        "width" : 572,
         "height" : 62
       },
-      "165FBD87F9438CD4393D77E73EED9E62" : {
+      "4F9BD3AE4B0AD48DD70DAF4BD7BB59B4" : {
         "type" : "texture",
         "index" : 4,
         "assetRequest" : {
@@ -44,7 +44,7 @@ local_slide( {
         "width" : 1024,
         "height" : 768
       },
-      "18E5A89DC88CE6516DDE86BEB8BFDAB4" : {
+      "FDC324BC20C08AC7F8D9DEA57DEAB974" : {
         "type" : "texture",
         "index" : 5,
         "assetRequest" : {
@@ -72,7 +72,7 @@ local_slide( {
         "width" : 1024,
         "height" : 768
       },
-      "7FB460F1CADE900E5C2B213254DFE7D0" : {
+      "C3426E34D6162472606A62680740733D" : {
         "type" : "texture",
         "index" : 3,
         "assetRequest" : {
@@ -83,8 +83,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/7D643FA7-9A1F-45A5-A30F-7828735F3C35.pdf"
         },
-        "width" : 976,
-        "height" : 68
+        "width" : 944,
+        "height" : 67
       }
     },
     "events" : [
@@ -268,7 +268,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "165FBD87F9438CD4393D77E73EED9E62"
+                      "texture" : "4F9BD3AE4B0AD48DD70DAF4BD7BB59B4"
                     },
                     {
                       "animations" : [
@@ -349,7 +349,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "18E5A89DC88CE6516DDE86BEB8BFDAB4"
+                      "texture" : "FDC324BC20C08AC7F8D9DEA57DEAB974"
                     }
                   ]
                 }
@@ -370,21 +370,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Theorem 2.4.9",
+            "text" : "Theorem 2.4.19",
             "targetRectangle" : {
               "y" : 324.44683837890625,
-              "x" : 239.54261291503906,
-              "width" : 526.24000000000001,
+              "x" : 217.30261291503905,
+              "width" : 570.72000000000003,
               "height" : 94.679443359375
             }
           },
           {
-            "text" : "Screen Shot 2018-04-21 at 6.39.05 PM.png",
+            "text" : "Screen Shot 2018-04-21 at 5.50.40 PM.png",
             "targetRectangle" : {
-              "y" : 408.546875,
-              "x" : 25.390625000000057,
-              "width" : 973.21875,
-              "height" : 64.90625
+              "y" : 419.18084716796881,
+              "x" : 41.25,
+              "width" : 941.51186859607697,
+              "height" : 64.21875
             }
           },
           {
@@ -706,10 +706,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 452.06761169433594,
+                      "pointX" : 475.06761169433594,
                       "pointY" : 345.44683837890625
                     },
-                    "width" : 526,
+                    "width" : 572,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -781,7 +781,7 @@ local_slide( {
                           "pointX" : 312.93238830566406,
                           "pointY" : 59.55316162109375
                         },
-                        "width" : 526,
+                        "width" : 572,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -815,7 +815,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "D803913FFA99B856E45B85987FBFB891"
+                      "texture" : "DA74CC4423F187553B9554252B51967C"
                     }
                   ]
                 }
@@ -1074,10 +1074,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 513.390625,
-                      "pointY" : 442.546875
+                      "pointX" : 513.25,
+                      "pointY" : 452.68084716796881
                     },
-                    "width" : 976,
+                    "width" : 944,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -1104,7 +1104,7 @@ local_slide( {
                     },
                     "opacity" : 1,
                     "edgeAntialiasingMask" : 251658240,
-                    "height" : 68,
+                    "height" : 67,
                     "hidden" : false,
                     "anchorPoint" : {
                       "pointX" : 0.5,
@@ -1140,10 +1140,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 486.60937499999994,
-                          "pointY" : 32.453125
+                          "pointX" : 470.75,
+                          "pointY" : 32.319152832031193
                         },
-                        "width" : 976,
+                        "width" : 944,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -1170,14 +1170,14 @@ local_slide( {
                         },
                         "opacity" : 1,
                         "edgeAntialiasingMask" : 0,
-                        "height" : 68,
+                        "height" : 67,
                         "hidden" : false,
                         "anchorPoint" : {
                           "pointX" : 0.5,
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "7FB460F1CADE900E5C2B213254DFE7D0"
+                      "texture" : "C3426E34D6162472606A62680740733D"
                     }
                   ]
                 }

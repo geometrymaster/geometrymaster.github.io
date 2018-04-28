@@ -1,12 +1,12 @@
 local_header( {
   "autoplayTransitionDelay" : 5,
   "author" : "",
-  "timestamp" : "2018-49-28 13:4:5",
+  "timestamp" : "2018-49-28 13:4:9",
   "loopSlideshow" : 0,
-  "filename" : "Theorem 2.4.9",
+  "filename" : "Theorem 2.4.19",
   "autoplayBuildDelay" : 2,
   "comment" : "",
-  "title" : "Theorem 2.4.9",
+  "title" : "Theorem 2.4.19",
   "showMode" : 0,
   "creator" : "Apple Keynote 8.0",
   "slideList" : [
